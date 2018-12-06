@@ -18,8 +18,12 @@ Jest ono możliwe poprzez:
 - wyprowadzenie zasad na jakich sięopierają, np. zaprzeczenie konwencji
 - generowanie pomysłów wybiegających poza to co udało się już zaobserwować/poznać
 
+## Twórczość w koncepcjach osobowościowych
+
 Twórczość w koncepcjach osobowościowych jest powiązana z neurotyzmem.
 Model Eysenck'a, model wlk. 5tki.
 Wyższa neurotyczność -> wyższa wrażliwość emocjonalna -> większa reakcja na otoczenie -> większa ilość motywacji twórczej.
 
-Z inteligencji, badania nad myśleniem dywergencyjnym mają zastosowanie w pomiarze twórczości. 
+## Z inteligencji
+
+Z inteligencji, badania nad myśleniem dywergencyjnym mają zastosowanie w pomiarze twórczości.
