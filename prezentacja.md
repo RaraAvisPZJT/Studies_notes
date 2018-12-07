@@ -27,3 +27,7 @@ Wyższa neurotyczność -> wyższa wrażliwość emocjonalna -> większa reakcja
 ## Z inteligencji
 
 Z inteligencji, badania nad myśleniem dywergencyjnym mają zastosowanie w pomiarze twórczości.
+
+# Rozwiązywanie problemów
+
+Jest to temat dychotomiczny względem twórczości w aspekcie teoretyczno - praktycznym. 
