@@ -30,4 +30,7 @@ Z inteligencji, badania nad myśleniem dywergencyjnym mają zastosowanie w pomia
 
 # Rozwiązywanie problemów
 
-Jest to temat dychotomiczny względem twórczości w aspekcie teoretyczno - praktycznym. 
+Jest to temat dychotomiczny względem twórczości w aspekcie teoretyczno - praktycznym.
+
+
+.
